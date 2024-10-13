@@ -1,0 +1,15 @@
+*{
+    margin: 10px;}
+.calc{
+    width: 250px;
+    height: 300px;
+    background-color: antiquewhite;
+    border: 1px solid black;
+}
+.calc-head{
+    width:90%;
+    height: 20px;
+    margin: 5px;
+    background-color: rgb(3, 48, 48);
+    align-items: center;
+}
