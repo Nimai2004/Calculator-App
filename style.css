@@ -13,3 +13,8 @@
     background-color: rgb(3, 48, 48);
     align-items: center;
 }
+.calc-body{
+    width: 90%;
+    height: 200px;
+    background-color: black;
+}
